@@ -2388,7 +2388,7 @@
     "semantic": {
       "border": {
         "border": {
-          "value": "{core.muted.muted-300}",
+          "value": "#00FFFF",
           "type": "color",
           "description": "Border color used for UI e.g. input fields."
         },
