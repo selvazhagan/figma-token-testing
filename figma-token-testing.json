@@ -69,11 +69,11 @@
           "type": "color"
         },
         "secondary-800": {
-          "value": "#b7bc15",
+          "value": "#919519",
           "type": "color"
         },
         "secondary-900": {
-          "value": "#838807",
+          "value": "#4A4D00",
           "type": "color"
         }
       },
@@ -152,12 +152,12 @@
           "description": "9C338A"
         },
         "pink-800": {
-          "value": "#7f1670",
+          "value": "#6B1A5E",
           "type": "color",
           "description": "7F1670"
         },
         "pink-900": {
-          "value": "#5e0053",
+          "value": "#3A0032",
           "type": "color",
           "description": "5E0053"
         }
@@ -1055,7 +1055,7 @@
         "type": "fontSizes"
       },
       "4xl": {
-        "value": "32",
+        "value": "32px",
         "type": "fontSizes"
       },
       "5xl": {
