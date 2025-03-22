@@ -1613,6 +1613,18 @@
           },
           "type": "typography",
           "description": "button large and medium"
+        },
+        "200": {
+          "value": {
+            "fontFamily": "{fontFamilies.neue-einstellung}",
+            "fontWeight": "{fontWeights.medium}",
+            "lineHeight": "{lineHeights.none}",
+            "fontSize": "{fontSize.lg}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "button large and medium"
         }
       }
     },
