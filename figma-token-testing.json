@@ -702,12 +702,12 @@
     "semantic": {
       "border": {
         "border": {
-          "value": "{core.muted.muted-300}",
+          "value": "{core.shading.shading-200}",
           "type": "color",
           "description": "Border color used for UI e.g. input fields."
         },
         "border-dark": {
-          "value": "{core.muted.muted-600}",
+          "value": "{core.shading.shading-700}",
           "type": "color",
           "description": "Dark border color used for UI e.g. input fields"
         },
@@ -1047,35 +1047,47 @@
         "type": "fontSizes"
       },
       "2xl": {
-        "value": "24px",
+        "value": "22px",
         "type": "fontSizes"
       },
       "3xl": {
-        "value": "28px",
+        "value": "24px",
         "type": "fontSizes"
       },
       "4xl": {
-        "value": "32px",
+        "value": "28px",
         "type": "fontSizes"
       },
       "5xl": {
-        "value": "36px",
+        "value": "32px",
         "type": "fontSizes"
       },
       "6xl": {
-        "value": "40px",
+        "value": "36px",
         "type": "fontSizes"
       },
       "7xl": {
+        "value": "40px",
+        "type": "fontSizes"
+      },
+      "8xl": {
         "value": "48px",
         "type": "fontSizes"
       },
-      "18xl": {
+      "9xl": {
         "value": "56px",
         "type": "fontSizes"
       },
-      "9xl": {
+      "12xl": {
+        "value": "80px",
+        "type": "fontSizes"
+      },
+      "11xl": {
         "value": "72px",
+        "type": "fontSizes"
+      },
+      "10xl": {
+        "value": "64px",
         "type": "fontSizes"
       }
     },
@@ -1091,6 +1103,30 @@
     },
     "heading": {
       "desktop": {
+        "50": {
+          "value": {
+            "fontFamily": "{fontFamilies.neue-einstellung}",
+            "fontWeight": "{fontWeights.bold}",
+            "lineHeight": "{lineHeight.shorter}",
+            "fontSize": "{fontSize.xs}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Price in desktop product cards."
+        },
+        "75": {
+          "value": {
+            "fontFamily": "{fontFamilies.neue-einstellung}",
+            "fontWeight": "{fontWeights.bold}",
+            "lineHeight": "{lineHeight.shorter}",
+            "fontSize": "{fontSize.sm}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Price in desktop product cards."
+        },
         "100": {
           "value": {
             "fontFamily": "{fontFamilies.neue-einstellung}",
@@ -1130,7 +1166,7 @@
             "fontFamily": "{fontFamilies.neue-einstellung}",
             "fontWeight": "{fontWeights.bold}",
             "lineHeight": "{lineHeight.shorter}",
-            "fontSize": "{fontSize.4xl}",
+            "fontSize": "{fontSize.6xl}",
             "textCase": "{textCase.none}",
             "textDecoration": "{textDecoration.none}"
           },
@@ -1141,7 +1177,7 @@
             "fontFamily": "{fontFamilies.neue-einstellung}",
             "fontWeight": "{fontWeights.bold}",
             "lineHeight": "{lineHeight.shorter}",
-            "fontSize": "{fontSize.6xl}",
+            "fontSize": "{fontSize.7xl}",
             "textCase": "{textCase.none}",
             "textDecoration": "{textDecoration.none}"
           },
@@ -1152,7 +1188,20 @@
             "fontFamily": "{fontFamilies.neue-einstellung}",
             "fontWeight": "{fontWeights.bold}",
             "lineHeight": "{lineHeight.shorter}",
-            "fontSize": "{fontSize.18xl}",
+            "fontSize": "{fontSize.10xl}",
+            "letterSpacing": "{letterSpacings.tight}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for subscription names in subscription cards"
+        },
+        "700": {
+          "value": {
+            "fontFamily": "{fontFamilies.neue-einstellung}",
+            "fontWeight": "{fontWeights.bold}",
+            "lineHeight": "{lineHeight.shorter}",
+            "fontSize": "{fontSize.11xl}",
             "letterSpacing": "{letterSpacings.tight}",
             "textCase": "{textCase.none}",
             "textDecoration": "{textDecoration.none}"
@@ -1186,6 +1235,30 @@
         }
       },
       "mobile": {
+        "50": {
+          "value": {
+            "fontFamily": "{fontFamilies.neue-einstellung}",
+            "fontWeight": "{fontWeights.bold}",
+            "lineHeight": "{lineHeight.shorter}",
+            "fontSize": "{fontSize.2xs}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Price in mobile product cards."
+        },
+        "75": {
+          "value": {
+            "fontFamily": "{fontFamilies.neue-einstellung}",
+            "fontWeight": "{fontWeights.bold}",
+            "lineHeight": "{lineHeight.shorter}",
+            "fontSize": "{fontSize.xs}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Price in mobile product cards."
+        },
         "100": {
           "value": {
             "fontFamily": "{fontFamilies.neue-einstellung}",
@@ -1236,7 +1309,7 @@
             "fontFamily": "{fontFamilies.neue-einstellung}",
             "fontWeight": "{fontWeights.bold}",
             "lineHeight": "{lineHeight.shorter}",
-            "fontSize": "{fontSize.3xl}",
+            "fontSize": "{fontSize.4xl}",
             "textCase": "{textCase.none}",
             "textDecoration": "{textDecoration.none}"
           },
@@ -1247,7 +1320,18 @@
             "fontFamily": "{fontFamilies.neue-einstellung}",
             "fontWeight": "{fontWeights.bold}",
             "lineHeight": "{lineHeight.shorter}",
-            "fontSize": "{fontSize.4xl}",
+            "fontSize": "{fontSize.5xl}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "700": {
+          "value": {
+            "fontFamily": "{fontFamilies.neue-einstellung}",
+            "fontWeight": "{fontWeights.bold}",
+            "lineHeight": "{lineHeight.shorter}",
+            "fontSize": "{fontSize.6xl}",
             "textCase": "{textCase.none}",
             "textDecoration": "{textDecoration.none}"
           },
@@ -1323,12 +1407,23 @@
         },
         "type": "typography"
       },
+      "400": {
+        "value": {
+          "fontFamily": "{fontFamilies.neue-einstellung}",
+          "fontWeight": "{fontWeights.normal}",
+          "lineHeight": "{lineHeight.moderate}",
+          "fontSize": "{fontSize.2xl}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography"
+      },
       "500": {
         "value": {
           "fontFamily": "{fontFamilies.neue-einstellung}",
           "fontWeight": "{fontWeights.normal}",
           "lineHeight": "{lineHeight.moderate}",
-          "fontSize": "{fontSize.4xl}",
+          "fontSize": "{fontSize.3xl}",
           "textCase": "{textCase.none}",
           "textDecoration": "{textDecoration.none}"
         },
@@ -1403,6 +1498,17 @@
     },
     "ui": {
       "link": {
+        "25": {
+          "value": {
+            "fontFamily": "{fontFamilies.neue-einstellung}",
+            "fontWeight": "{fontWeights.medium}",
+            "lineHeight": "{lineHeight.moderate}",
+            "fontSize": "{fontSize.2xs}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.underline}"
+          },
+          "type": "typography"
+        },
         "50": {
           "value": {
             "fontFamily": "{fontFamilies.neue-einstellung}",
@@ -1461,6 +1567,18 @@
         }
       },
       "button": {
+        "25": {
+          "value": {
+            "fontFamily": "{fontFamilies.neue-einstellung}",
+            "fontWeight": "{fontWeights.medium}",
+            "lineHeight": "{lineHeights.none}",
+            "fontSize": "{fontSize.2xs}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "button large and medium"
+        },
         "50": {
           "value": {
             "fontFamily": "{fontFamilies.neue-einstellung}",
