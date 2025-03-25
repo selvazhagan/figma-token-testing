@@ -1166,7 +1166,7 @@
             "fontFamily": "{fontFamilies.neue-einstellung}",
             "fontWeight": "{fontWeights.bold}",
             "lineHeight": "{lineHeight.shorter}",
-            "fontSize": "{fontSize.6xl}",
+            "fontSize": "{fontSize.5xl}",
             "textCase": "{textCase.none}",
             "textDecoration": "{textDecoration.none}"
           },
