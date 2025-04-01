@@ -988,16 +988,16 @@
       }
     },
     "fontFamilies": {
-      "BebasNeue": {
-        "value": "Bebas Neue",
+      "bebas-neue": {
+        "value": "BebasNeue",
         "type": "fontFamilies"
       },
-      "NeueEinstellung": {
-        "value": "Neue Einstellung",
+      "neue-einstellung": {
+        "value": "NeueEinstellung",
         "type": "fontFamilies"
       },
-      "CrimsonText": {
-        "value": "Crimson Text",
+      "crimson-text": {
+        "value": "CrimsonText",
         "type": "fontFamilies"
       }
     },
@@ -1105,7 +1105,7 @@
       "desktop": {
         "50": {
           "value": {
-            "fontFamily": "{fontFamilies.NeueEinstellung}",
+            "fontFamily": "{fontFamilies.neue-einstellung}",
             "fontWeight": "{fontWeights.bold}",
             "lineHeight": "{lineHeight.shorter}",
             "fontSize": "{fontSize.xs}",
@@ -1117,7 +1117,7 @@
         },
         "75": {
           "value": {
-            "fontFamily": "{fontFamilies.NeueEinstellung}",
+            "fontFamily": "{fontFamilies.neue-einstellung}",
             "fontWeight": "{fontWeights.bold}",
             "lineHeight": "{lineHeight.shorter}",
             "fontSize": "{fontSize.sm}",
@@ -1129,7 +1129,7 @@
         },
         "100": {
           "value": {
-            "fontFamily": "{fontFamilies.NeueEinstellung}",
+            "fontFamily": "{fontFamilies.neue-einstellung}",
             "fontWeight": "{fontWeights.bold}",
             "lineHeight": "{lineHeight.shorter}",
             "fontSize": "{fontSize.md}",
@@ -1141,7 +1141,7 @@
         },
         "200": {
           "value": {
-            "fontFamily": "{fontFamilies.NeueEinstellung}",
+            "fontFamily": "{fontFamilies.neue-einstellung}",
             "fontWeight": "{fontWeights.bold}",
             "lineHeight": "{lineHeight.shorter}",
             "fontSize": "{fontSize.xl}",
@@ -1152,7 +1152,7 @@
         },
         "300": {
           "value": {
-            "fontFamily": "{fontFamilies.NeueEinstellung}",
+            "fontFamily": "{fontFamilies.neue-einstellung}",
             "fontWeight": "{fontWeights.bold}",
             "lineHeight": "{lineHeight.shorter}",
             "fontSize": "{fontSize.3xl}",
@@ -1163,7 +1163,7 @@
         },
         "400": {
           "value": {
-            "fontFamily": "{fontFamilies.NeueEinstellung}",
+            "fontFamily": "{fontFamilies.neue-einstellung}",
             "fontWeight": "{fontWeights.bold}",
             "lineHeight": "{lineHeight.shorter}",
             "fontSize": "{fontSize.5xl}",
@@ -1174,7 +1174,7 @@
         },
         "500": {
           "value": {
-            "fontFamily": "{fontFamilies.NeueEinstellung}",
+            "fontFamily": "{fontFamilies.neue-einstellung}",
             "fontWeight": "{fontWeights.bold}",
             "lineHeight": "{lineHeight.shorter}",
             "fontSize": "{fontSize.7xl}",
@@ -1185,7 +1185,7 @@
         },
         "600": {
           "value": {
-            "fontFamily": "{fontFamilies.NeueEinstellung}",
+            "fontFamily": "{fontFamilies.neue-einstellung}",
             "fontWeight": "{fontWeights.bold}",
             "lineHeight": "{lineHeight.shorter}",
             "fontSize": "{fontSize.10xl}",
@@ -1198,7 +1198,7 @@
         },
         "700": {
           "value": {
-            "fontFamily": "{fontFamilies.NeueEinstellung}",
+            "fontFamily": "{fontFamilies.neue-einstellung}",
             "fontWeight": "{fontWeights.bold}",
             "lineHeight": "{lineHeight.shorter}",
             "fontSize": "{fontSize.11xl}",
@@ -1211,7 +1211,7 @@
         },
         "display700": {
           "value": {
-            "fontFamily": "{fontFamilies.BebasNeue}",
+            "fontFamily": "{fontFamilies.bebas-neue}",
             "fontWeight": "{fontWeights.normal}",
             "lineHeight": "{lineHeights.none}",
             "fontSize": "{fontSize.9xl}",
@@ -1223,7 +1223,7 @@
         },
         "display600": {
           "value": {
-            "fontFamily": "{fontFamilies.BebasNeue}",
+            "fontFamily": "{fontFamilies.bebas-neue}",
             "fontWeight": "{fontWeights.normal}",
             "lineHeight": "{lineHeights.none}",
             "fontSize": "{fontSize.7xl}",
@@ -1237,7 +1237,7 @@
       "mobile": {
         "50": {
           "value": {
-            "fontFamily": "{fontFamilies.NeueEinstellung}",
+            "fontFamily": "{fontFamilies.neue-einstellung}",
             "fontWeight": "{fontWeights.bold}",
             "lineHeight": "{lineHeight.shorter}",
             "fontSize": "{fontSize.2xs}",
@@ -1249,7 +1249,7 @@
         },
         "75": {
           "value": {
-            "fontFamily": "{fontFamilies.NeueEinstellung}",
+            "fontFamily": "{fontFamilies.neue-einstellung}",
             "fontWeight": "{fontWeights.bold}",
             "lineHeight": "{lineHeight.shorter}",
             "fontSize": "{fontSize.xs}",
@@ -1261,7 +1261,7 @@
         },
         "100": {
           "value": {
-            "fontFamily": "{fontFamilies.NeueEinstellung}",
+            "fontFamily": "{fontFamilies.neue-einstellung}",
             "fontWeight": "{fontWeights.bold}",
             "lineHeight": "{lineHeight.shorter}",
             "fontSize": "{fontSize.sm}",
@@ -1273,7 +1273,7 @@
         },
         "200": {
           "value": {
-            "fontFamily": "{fontFamilies.NeueEinstellung}",
+            "fontFamily": "{fontFamilies.neue-einstellung}",
             "fontWeight": "{fontWeights.bold}",
             "lineHeight": "{lineHeight.shorter}",
             "fontSize": "{fontSize.md}",
@@ -1284,7 +1284,7 @@
         },
         "300": {
           "value": {
-            "fontFamily": "{fontFamilies.NeueEinstellung}",
+            "fontFamily": "{fontFamilies.neue-einstellung}",
             "fontWeight": "{fontWeights.bold}",
             "lineHeight": "{lineHeight.shorter}",
             "fontSize": "{fontSize.lg}",
@@ -1295,7 +1295,7 @@
         },
         "400": {
           "value": {
-            "fontFamily": "{fontFamilies.NeueEinstellung}",
+            "fontFamily": "{fontFamilies.neue-einstellung}",
             "fontWeight": "{fontWeights.bold}",
             "lineHeight": "{lineHeight.shorter}",
             "fontSize": "{fontSize.2xl}",
@@ -1306,7 +1306,7 @@
         },
         "500": {
           "value": {
-            "fontFamily": "{fontFamilies.NeueEinstellung}",
+            "fontFamily": "{fontFamilies.neue-einstellung}",
             "fontWeight": "{fontWeights.bold}",
             "lineHeight": "{lineHeight.shorter}",
             "fontSize": "{fontSize.4xl}",
@@ -1317,7 +1317,7 @@
         },
         "600": {
           "value": {
-            "fontFamily": "{fontFamilies.NeueEinstellung}",
+            "fontFamily": "{fontFamilies.neue-einstellung}",
             "fontWeight": "{fontWeights.bold}",
             "lineHeight": "{lineHeight.shorter}",
             "fontSize": "{fontSize.5xl}",
@@ -1328,7 +1328,7 @@
         },
         "700": {
           "value": {
-            "fontFamily": "{fontFamilies.NeueEinstellung}",
+            "fontFamily": "{fontFamilies.neue-einstellung}",
             "fontWeight": "{fontWeights.bold}",
             "lineHeight": "{lineHeight.shorter}",
             "fontSize": "{fontSize.6xl}",
@@ -1339,7 +1339,7 @@
         },
         "display700": {
           "value": {
-            "fontFamily": "{fontFamilies.BebasNeue}",
+            "fontFamily": "{fontFamilies.bebas-neue}",
             "fontWeight": "{fontWeights.normal}",
             "lineHeight": "{lineHeights.none}",
             "fontSize": "{fontSize.6xl}",
@@ -1354,7 +1354,7 @@
     "body": {
       "25": {
         "value": {
-          "fontFamily": "{fontFamilies.NeueEinstellung}",
+          "fontFamily": "{fontFamilies.neue-einstellung}",
           "fontWeight": "{fontWeights.normal}",
           "lineHeight": "{lineHeight.shorter}",
           "fontSize": "{fontSize.2xs}",
@@ -1365,7 +1365,7 @@
       },
       "50": {
         "value": {
-          "fontFamily": "{fontFamilies.NeueEinstellung}",
+          "fontFamily": "{fontFamilies.neue-einstellung}",
           "fontWeight": "{fontWeights.normal}",
           "lineHeight": "{lineHeight.moderate}",
           "fontSize": "{fontSize.xs}",
@@ -1376,7 +1376,7 @@
       },
       "75": {
         "value": {
-          "fontFamily": "{fontFamilies.NeueEinstellung}",
+          "fontFamily": "{fontFamilies.neue-einstellung}",
           "fontWeight": "{fontWeights.normal}",
           "lineHeight": "{lineHeight.moderate}",
           "fontSize": "{fontSize.sm}",
@@ -1387,7 +1387,7 @@
       },
       "100": {
         "value": {
-          "fontFamily": "{fontFamilies.NeueEinstellung}",
+          "fontFamily": "{fontFamilies.neue-einstellung}",
           "fontWeight": "{fontWeights.normal}",
           "lineHeight": "{lineHeight.moderate}",
           "fontSize": "{fontSize.md}",
@@ -1398,7 +1398,7 @@
       },
       "200": {
         "value": {
-          "fontFamily": "{fontFamilies.NeueEinstellung}",
+          "fontFamily": "{fontFamilies.neue-einstellung}",
           "fontWeight": "{fontWeights.normal}",
           "lineHeight": "{lineHeight.moderate}",
           "fontSize": "{fontSize.xl}",
@@ -1409,7 +1409,7 @@
       },
       "400": {
         "value": {
-          "fontFamily": "{fontFamilies.NeueEinstellung}",
+          "fontFamily": "{fontFamilies.neue-einstellung}",
           "fontWeight": "{fontWeights.normal}",
           "lineHeight": "{lineHeight.moderate}",
           "fontSize": "{fontSize.2xl}",
@@ -1420,7 +1420,7 @@
       },
       "500": {
         "value": {
-          "fontFamily": "{fontFamilies.NeueEinstellung}",
+          "fontFamily": "{fontFamilies.neue-einstellung}",
           "fontWeight": "{fontWeights.normal}",
           "lineHeight": "{lineHeight.moderate}",
           "fontSize": "{fontSize.3xl}",
@@ -1431,7 +1431,7 @@
       },
       "25-alt": {
         "value": {
-          "fontFamily": "{fontFamilies.NeueEinstellung}",
+          "fontFamily": "{fontFamilies.neue-einstellung}",
           "fontWeight": "{fontWeights.medium}",
           "lineHeight": "{lineHeight.shorter}",
           "fontSize": "{fontSize.2xs}",
@@ -1442,7 +1442,7 @@
       },
       "50-alt": {
         "value": {
-          "fontFamily": "{fontFamilies.NeueEinstellung}",
+          "fontFamily": "{fontFamilies.neue-einstellung}",
           "fontWeight": "{fontWeights.medium}",
           "lineHeight": "{lineHeight.moderate}",
           "fontSize": "{fontSize.xs}",
@@ -1453,7 +1453,7 @@
       },
       "75-alt": {
         "value": {
-          "fontFamily": "{fontFamilies.NeueEinstellung}",
+          "fontFamily": "{fontFamilies.neue-einstellung}",
           "fontWeight": "{fontWeights.medium}",
           "lineHeight": "{lineHeight.moderate}",
           "fontSize": "{fontSize.sm}",
@@ -1464,7 +1464,7 @@
       },
       "100-alt": {
         "value": {
-          "fontFamily": "{fontFamilies.NeueEinstellung}",
+          "fontFamily": "{fontFamilies.neue-einstellung}",
           "fontWeight": "{fontWeights.medium}",
           "lineHeight": "{lineHeight.moderate}",
           "fontSize": "{fontSize.md}",
@@ -1475,7 +1475,7 @@
       },
       "serif200": {
         "value": {
-          "fontFamily": "{fontFamilies.CrimsonText}",
+          "fontFamily": "{fontFamilies.crimson-text}",
           "fontWeight": "{fontWeights.normal}",
           "lineHeight": "{lineHeight.short}",
           "fontSize": "{fontSize.xl}",
@@ -1486,7 +1486,7 @@
       },
       "serif600": {
         "value": {
-          "fontFamily": "{fontFamilies.CrimsonText}",
+          "fontFamily": "{fontFamilies.crimson-text}",
           "fontWeight": "{fontWeights.normal}",
           "fontSize": "{fontSize.4xl}",
           "lineHeight": "{lineHeight.shorter}",
@@ -1500,7 +1500,7 @@
       "link": {
         "25": {
           "value": {
-            "fontFamily": "{fontFamilies.NeueEinstellung}",
+            "fontFamily": "{fontFamilies.neue-einstellung}",
             "fontWeight": "{fontWeights.medium}",
             "lineHeight": "{lineHeight.moderate}",
             "fontSize": "{fontSize.2xs}",
@@ -1511,7 +1511,7 @@
         },
         "50": {
           "value": {
-            "fontFamily": "{fontFamilies.NeueEinstellung}",
+            "fontFamily": "{fontFamilies.neue-einstellung}",
             "fontWeight": "{fontWeights.medium}",
             "lineHeight": "{lineHeight.moderate}",
             "fontSize": "{fontSize.xs}",
@@ -1522,7 +1522,7 @@
         },
         "75": {
           "value": {
-            "fontFamily": "{fontFamilies.NeueEinstellung}",
+            "fontFamily": "{fontFamilies.neue-einstellung}",
             "fontWeight": "{fontWeights.medium}",
             "lineHeight": "{lineHeight.moderate}",
             "fontSize": "{fontSize.sm}",
@@ -1533,7 +1533,7 @@
         },
         "100": {
           "value": {
-            "fontFamily": "{fontFamilies.NeueEinstellung}",
+            "fontFamily": "{fontFamilies.neue-einstellung}",
             "fontWeight": "{fontWeights.medium}",
             "lineHeight": "{lineHeight.short}",
             "fontSize": "{fontSize.md}",
@@ -1544,7 +1544,7 @@
         },
         "200": {
           "value": {
-            "fontFamily": "{fontFamilies.NeueEinstellung}",
+            "fontFamily": "{fontFamilies.neue-einstellung}",
             "fontWeight": "{fontWeights.medium}",
             "lineHeight": "{lineHeight.moderate}",
             "fontSize": "{fontSize.xl}",
@@ -1556,7 +1556,7 @@
         },
         "serif200": {
           "value": {
-            "fontFamily": "{fontFamilies.CrimsonText}",
+            "fontFamily": "{fontFamilies.crimson-text}",
             "fontWeight": "{fontWeights.medium}",
             "lineHeight": "{lineHeight.short}",
             "fontSize": "{fontSize.xl}",
@@ -1569,7 +1569,7 @@
       "button": {
         "25": {
           "value": {
-            "fontFamily": "{fontFamilies.NeueEinstellung}",
+            "fontFamily": "{fontFamilies.neue-einstellung}",
             "fontWeight": "{fontWeights.medium}",
             "lineHeight": "{lineHeights.none}",
             "fontSize": "{fontSize.2xs}",
@@ -1581,7 +1581,7 @@
         },
         "50": {
           "value": {
-            "fontFamily": "{fontFamilies.NeueEinstellung}",
+            "fontFamily": "{fontFamilies.neue-einstellung}",
             "fontWeight": "{fontWeights.medium}",
             "lineHeight": "{lineHeights.none}",
             "fontSize": "{fontSize.xs}",
@@ -1592,7 +1592,7 @@
         },
         "75": {
           "value": {
-            "fontFamily": "{fontFamilies.NeueEinstellung}",
+            "fontFamily": "{fontFamilies.neue-einstellung}",
             "fontWeight": "{fontWeights.medium}",
             "lineHeight": "{lineHeights.none}",
             "fontSize": "{fontSize.sm}",
@@ -1604,7 +1604,7 @@
         },
         "100": {
           "value": {
-            "fontFamily": "{fontFamilies.NeueEinstellung}",
+            "fontFamily": "{fontFamilies.neue-einstellung}",
             "fontWeight": "{fontWeights.medium}",
             "lineHeight": "{lineHeights.none}",
             "fontSize": "{fontSize.md}",
@@ -1616,7 +1616,7 @@
         },
         "200": {
           "value": {
-            "fontFamily": "{fontFamilies.NeueEinstellung}",
+            "fontFamily": "{fontFamilies.neue-einstellung}",
             "fontWeight": "{fontWeights.medium}",
             "lineHeight": "{lineHeights.none}",
             "fontSize": "{fontSize.lg}",
@@ -1631,7 +1631,7 @@
     "eyebrow": {
       "25": {
         "value": {
-          "fontFamily": "{fontFamilies.NeueEinstellung}",
+          "fontFamily": "{fontFamilies.neue-einstellung}",
           "fontWeight": "{fontWeights.bold}",
           "lineHeight": "{lineHeights.none}",
           "fontSize": "{fontSize.2xs}",
@@ -1643,7 +1643,7 @@
       },
       "50": {
         "value": {
-          "fontFamily": "{fontFamilies.NeueEinstellung}",
+          "fontFamily": "{fontFamilies.neue-einstellung}",
           "fontWeight": "{fontWeights.bold}",
           "lineHeight": "{lineHeights.none}",
           "fontSize": "{fontSize.xs}",
@@ -1655,7 +1655,7 @@
       },
       "75": {
         "value": {
-          "fontFamily": "{fontFamilies.NeueEinstellung}",
+          "fontFamily": "{fontFamilies.neue-einstellung}",
           "fontWeight": "{fontWeights.bold}",
           "lineHeight": "{lineHeights.none}",
           "fontSize": "{fontSize.sm}",
@@ -1667,7 +1667,7 @@
       },
       "100": {
         "value": {
-          "fontFamily": "{fontFamilies.NeueEinstellung}",
+          "fontFamily": "{fontFamilies.neue-einstellung}",
           "fontWeight": "{fontWeights.bold}",
           "lineHeight": "{lineHeights.none}",
           "fontSize": "{fontSize.md}",
