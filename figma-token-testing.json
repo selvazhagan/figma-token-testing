@@ -832,6 +832,10 @@
           "value": "{core.green.green-400}",
           "type": "color",
           "description": "Secondary color for Refreshments"
+        },
+        "accent": {
+          "value": "linear-gradient(43.26deg, #A1D8FF 1.43%, #FB83E5 50%, #FFB272 98.57%)",
+          "type": "color"
         }
       },
       "text": {
@@ -846,7 +850,7 @@
           "description": "Alternative darker text colour used when high contrast is required e.g. text on image or surface."
         },
         "muted": {
-          "value": "{core.shading.shading-500}",
+          "value": "{core.shading.shading-600}",
           "type": "color",
           "description": "Subtle text colour used for alternative styling & supporting visual hierarchy"
         },
